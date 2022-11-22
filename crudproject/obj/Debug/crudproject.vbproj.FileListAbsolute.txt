@@ -1,0 +1,56 @@
+C:\Users\HERYAN\AppData\Local\Temporary Projects\crudproject\bin\Debug\crudproject.exe
+C:\Users\HERYAN\AppData\Local\Temporary Projects\crudproject\bin\Debug\crudproject.pdb
+C:\Users\HERYAN\AppData\Local\Temporary Projects\crudproject\bin\Debug\crudproject.xml
+C:\Users\HERYAN\AppData\Local\Temporary Projects\crudproject\obj\Debug\crudproject.vbprojResolveAssemblyReference.cache
+C:\Users\HERYAN\AppData\Local\Temporary Projects\crudproject\obj\Debug\crudproject.Resources.resources
+C:\Users\HERYAN\AppData\Local\Temporary Projects\crudproject\obj\Debug\crudproject.vbproj.GenerateResource.Cache
+C:\Users\HERYAN\AppData\Local\Temporary Projects\crudproject\obj\Debug\crudproject.exe
+C:\Users\HERYAN\AppData\Local\Temporary Projects\crudproject\obj\Debug\crudproject.xml
+C:\Users\HERYAN\AppData\Local\Temporary Projects\crudproject\obj\Debug\crudproject.pdb
+C:\Users\HERYAN\OneDrive\Documents\Persiapan Ibel 2022\TUGAS\Praktikum\VB\30722081_P3_VB_TUGAS\crudproject\crudproject\obj\Debug\crudproject.exe
+C:\Users\HERYAN\OneDrive\Documents\Persiapan Ibel 2022\TUGAS\Praktikum\VB\30722081_P3_VB_TUGAS\crudproject\crudproject\obj\Debug\crudproject.xml
+C:\Users\HERYAN\OneDrive\Documents\Persiapan Ibel 2022\TUGAS\Praktikum\VB\30722081_P3_VB_TUGAS\crudproject\crudproject\obj\Debug\crudproject.pdb
+C:\Users\HERYAN\OneDrive\Documents\Persiapan Ibel 2022\TUGAS\Praktikum\VB\30722081_P3_VB_TUGAS\crudproject\crudproject\bin\Debug\crudproject.exe
+C:\Users\HERYAN\OneDrive\Documents\Persiapan Ibel 2022\TUGAS\Praktikum\VB\30722081_P3_VB_TUGAS\crudproject\crudproject\bin\Debug\crudproject.pdb
+C:\Users\HERYAN\OneDrive\Documents\Persiapan Ibel 2022\TUGAS\Praktikum\VB\30722081_P3_VB_TUGAS\crudproject\crudproject\bin\Debug\crudproject.xml
+C:\Users\HERYAN\OneDrive\Documents\Persiapan Ibel 2022\TUGAS\Praktikum\VB\30722081_P3_VB_TUGAS\crudproject\crudproject\obj\Debug\crudproject.Resources.resources
+C:\Users\HERYAN\OneDrive\Documents\Persiapan Ibel 2022\TUGAS\Praktikum\VB\30722081_P3_VB_TUGAS\crudproject\crudproject\obj\Debug\crudproject.vbproj.GenerateResource.Cache
+C:\Users\HERYAN\OneDrive\Documents\Persiapan Ibel 2022\TUGAS\Praktikum\VB\30722081_P3_VB_TUGAS\crudproject\crudproject\obj\Debug\crudproject.vbproj.CoreCompileInputs.cache
+C:\Users\HERYAN\OneDrive\Documents\Persiapan Ibel 2022\TUGAS\Praktikum\VB\30722081_P3_VB_TUGAS\crudproject\crudproject\bin\Debug\AForge.dll
+C:\Users\HERYAN\OneDrive\Documents\Persiapan Ibel 2022\TUGAS\Praktikum\VB\30722081_P3_VB_TUGAS\crudproject\crudproject\bin\Debug\AForge.Video.dll
+C:\Users\HERYAN\OneDrive\Documents\Persiapan Ibel 2022\TUGAS\Praktikum\VB\30722081_P3_VB_TUGAS\crudproject\crudproject\bin\Debug\System.Data.SQLite.dll
+C:\Users\HERYAN\OneDrive\Documents\Persiapan Ibel 2022\TUGAS\Praktikum\VB\30722081_P3_VB_TUGAS\crudproject\crudproject\bin\Debug\zxing.dll
+C:\Users\HERYAN\OneDrive\Documents\Persiapan Ibel 2022\TUGAS\Praktikum\VB\30722081_P3_VB_TUGAS\crudproject\crudproject\bin\Debug\AForge.xml
+C:\Users\HERYAN\OneDrive\Documents\Persiapan Ibel 2022\TUGAS\Praktikum\VB\30722081_P3_VB_TUGAS\crudproject\crudproject\bin\Debug\AForge.Video.xml
+C:\Users\HERYAN\OneDrive\Documents\Persiapan Ibel 2022\TUGAS\Praktikum\VB\30722081_P3_VB_TUGAS\crudproject\crudproject\bin\Debug\System.Data.SQLite.xml
+C:\Users\HERYAN\OneDrive\Documents\Persiapan Ibel 2022\TUGAS\Praktikum\VB\30722081_P3_VB_TUGAS\crudproject\crudproject\bin\Debug\zxing.xml
+C:\Users\HERYAN\OneDrive\Documents\Persiapan Ibel 2022\TUGAS\Praktikum\VB\30722081_P3_VB_TUGAS\crudproject\crudproject\obj\Debug\crudproject.vbproj.CopyComplete
+C:\Users\HERYAN\OneDrive\Documents\Persiapan Ibel 2022\TUGAS\Praktikum\VB\30722081_P3_VB_TUGAS\crudproject\crudproject\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\HERYAN\OneDrive\Documents\Persiapan Ibel 2022\TUGAS\Praktikum\VB\30722081_P3_VB_TUGAS\crudproject\crudproject\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\HERYAN\OneDrive\Documents\Persiapan Ibel 2022\TUGAS\Praktikum\VB\30722081_P3_VB_TUGAS\crudproject\crudproject\obj\Debug\crudproject.frmCek.resources
+C:\Users\HERYAN\OneDrive\Documents\Persiapan Ibel 2022\TUGAS\Praktikum\VB\30722081_P3_VB_TUGAS\crudproject\crudproject\obj\Debug\crudproject.frmMain.resources
+C:\Users\HERYAN\OneDrive\Documents\Persiapan Ibel 2022\TUGAS\Praktikum\VB\30722081_P3_VB_TUGAS\crudproject\crudproject\obj\Debug\crudproject.frmDb.resources
+C:\Users\PAJAK\OneDrive\Documents\Persiapan Ibel 2022\TUGAS\Praktikum\VB\30722081_P4_VB_TUGAS\crudproject\crudproject\bin\Debug\crudproject.exe
+C:\Users\PAJAK\OneDrive\Documents\Persiapan Ibel 2022\TUGAS\Praktikum\VB\30722081_P4_VB_TUGAS\crudproject\crudproject\bin\Debug\crudproject.pdb
+C:\Users\PAJAK\OneDrive\Documents\Persiapan Ibel 2022\TUGAS\Praktikum\VB\30722081_P4_VB_TUGAS\crudproject\crudproject\bin\Debug\crudproject.xml
+C:\Users\PAJAK\OneDrive\Documents\Persiapan Ibel 2022\TUGAS\Praktikum\VB\30722081_P4_VB_TUGAS\crudproject\crudproject\bin\Debug\AForge.dll
+C:\Users\PAJAK\OneDrive\Documents\Persiapan Ibel 2022\TUGAS\Praktikum\VB\30722081_P4_VB_TUGAS\crudproject\crudproject\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\PAJAK\OneDrive\Documents\Persiapan Ibel 2022\TUGAS\Praktikum\VB\30722081_P4_VB_TUGAS\crudproject\crudproject\bin\Debug\AForge.Video.dll
+C:\Users\PAJAK\OneDrive\Documents\Persiapan Ibel 2022\TUGAS\Praktikum\VB\30722081_P4_VB_TUGAS\crudproject\crudproject\bin\Debug\System.Data.SQLite.dll
+C:\Users\PAJAK\OneDrive\Documents\Persiapan Ibel 2022\TUGAS\Praktikum\VB\30722081_P4_VB_TUGAS\crudproject\crudproject\bin\Debug\zxing.dll
+C:\Users\PAJAK\OneDrive\Documents\Persiapan Ibel 2022\TUGAS\Praktikum\VB\30722081_P4_VB_TUGAS\crudproject\crudproject\bin\Debug\AForge.xml
+C:\Users\PAJAK\OneDrive\Documents\Persiapan Ibel 2022\TUGAS\Praktikum\VB\30722081_P4_VB_TUGAS\crudproject\crudproject\bin\Debug\AForge.Video.xml
+C:\Users\PAJAK\OneDrive\Documents\Persiapan Ibel 2022\TUGAS\Praktikum\VB\30722081_P4_VB_TUGAS\crudproject\crudproject\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\PAJAK\OneDrive\Documents\Persiapan Ibel 2022\TUGAS\Praktikum\VB\30722081_P4_VB_TUGAS\crudproject\crudproject\bin\Debug\System.Data.SQLite.xml
+C:\Users\PAJAK\OneDrive\Documents\Persiapan Ibel 2022\TUGAS\Praktikum\VB\30722081_P4_VB_TUGAS\crudproject\crudproject\bin\Debug\zxing.xml
+C:\Users\PAJAK\OneDrive\Documents\Persiapan Ibel 2022\TUGAS\Praktikum\VB\30722081_P4_VB_TUGAS\crudproject\crudproject\obj\Debug\crudproject.vbprojAssemblyReference.cache
+C:\Users\PAJAK\OneDrive\Documents\Persiapan Ibel 2022\TUGAS\Praktikum\VB\30722081_P4_VB_TUGAS\crudproject\crudproject\obj\Debug\crudproject.frmCek.resources
+C:\Users\PAJAK\OneDrive\Documents\Persiapan Ibel 2022\TUGAS\Praktikum\VB\30722081_P4_VB_TUGAS\crudproject\crudproject\obj\Debug\crudproject.frmMain.resources
+C:\Users\PAJAK\OneDrive\Documents\Persiapan Ibel 2022\TUGAS\Praktikum\VB\30722081_P4_VB_TUGAS\crudproject\crudproject\obj\Debug\crudproject.frmDb.resources
+C:\Users\PAJAK\OneDrive\Documents\Persiapan Ibel 2022\TUGAS\Praktikum\VB\30722081_P4_VB_TUGAS\crudproject\crudproject\obj\Debug\crudproject.Resources.resources
+C:\Users\PAJAK\OneDrive\Documents\Persiapan Ibel 2022\TUGAS\Praktikum\VB\30722081_P4_VB_TUGAS\crudproject\crudproject\obj\Debug\crudproject.vbproj.GenerateResource.cache
+C:\Users\PAJAK\OneDrive\Documents\Persiapan Ibel 2022\TUGAS\Praktikum\VB\30722081_P4_VB_TUGAS\crudproject\crudproject\obj\Debug\crudproject.vbproj.CoreCompileInputs.cache
+C:\Users\PAJAK\OneDrive\Documents\Persiapan Ibel 2022\TUGAS\Praktikum\VB\30722081_P4_VB_TUGAS\crudproject\crudproject\obj\Debug\crudproject.vbproj.CopyComplete
+C:\Users\PAJAK\OneDrive\Documents\Persiapan Ibel 2022\TUGAS\Praktikum\VB\30722081_P4_VB_TUGAS\crudproject\crudproject\obj\Debug\crudproject.exe
+C:\Users\PAJAK\OneDrive\Documents\Persiapan Ibel 2022\TUGAS\Praktikum\VB\30722081_P4_VB_TUGAS\crudproject\crudproject\obj\Debug\crudproject.xml
+C:\Users\PAJAK\OneDrive\Documents\Persiapan Ibel 2022\TUGAS\Praktikum\VB\30722081_P4_VB_TUGAS\crudproject\crudproject\obj\Debug\crudproject.pdb
